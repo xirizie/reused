@@ -108,9 +108,6 @@ last updated <b>12/01/2023</b>
 # [Yokoku [reverse hidden]](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/Yokoku%20%5Breverse%20hidden%5D.osk)
 [![](https://osu.ppy.sh/ss/18330735/034e)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/Yokoku%20%5Breverse%20hidden%5D.osk)
 
-# [お兄ちゃんはおしまい！](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/%E3%81%8A%E5%85%84%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E3%81%8A%E3%81%97%E3%81%BE%E3%81%84%EF%BC%81.osk)
-[![](https://osu.ppy.sh/ss/18330736/54cf)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/%E3%81%8A%E5%85%84%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E3%81%8A%E3%81%97%E3%81%BE%E3%81%84%EF%BC%81.osk)
-
 #
 <p align="center">
   <br></br>
