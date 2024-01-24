@@ -123,8 +123,6 @@ last updated <b>12/01/2023</b>
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="100" 
        height="100"></a>
-  <br></br>
-  <a href="https://github.com/ryancranie/skinhub">rc_skinhub</a>
  </p>
 
 
