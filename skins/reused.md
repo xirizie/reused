@@ -15,9 +15,6 @@
 # [Aetrna August 2020](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/Aetrna%20August%202020.osk)
 [![](https://osu.ppy.sh/ss/18330669/4deb)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/Aetrna%20August%202020.osk)
 
-# [aetrnaaberrateFujiwara v3](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/aetrnaaberrateFujiwara%20v3.osk)
-[![](https://osu.ppy.sh/ss/18330671/c401)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/aetrnaaberrateFujiwara%20v3.osk)
-
 # [howlhamachi](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/howlhamachi.osk)
 [![](https://osu.ppy.sh/ss/18330685/696f)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/howlhamachi.osk)
 
