@@ -60,7 +60,7 @@ last updated <b>1/23/2024</b>
 #
 <p align="center">
   <br></br>
-  <a href="https://www.twitch.tv/aeliriis">
+  <a href="https://www.twitch.tv/reusedzz">
   <img src="https://i.imgur.com/HM030lk.png" 
        width="100" 
        height="100"></a>
