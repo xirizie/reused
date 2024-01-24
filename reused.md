@@ -102,12 +102,6 @@ last updated <b>1/23/2024</b>
 # [Toke - Natsukihina](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/Toke%20-%20Natsukihina.osk)
 [![](https://osu.ppy.sh/ss/18330731/bced)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/Toke%20-%20Natsukihina.osk)
 
-# [Uberlegen Skin beta9](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/Uberlegen%20Skin%20beta9.osk)
-[![](https://osu.ppy.sh/ss/18330732/1892)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/Uberlegen%20Skin%20beta9.osk)
-
-# [Yokoku [reverse hidden]](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/Yokoku%20%5Breverse%20hidden%5D.osk)
-[![](https://osu.ppy.sh/ss/18330735/034e)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/Yokoku%20%5Breverse%20hidden%5D.osk)
-
 #
 <p align="center">
   <br></br>
