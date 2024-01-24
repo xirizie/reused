@@ -1,6 +1,5 @@
 # <p align="center"> my skins
-last updated <b>1/23/2024</b>
-<p align="center">  
+<p align="center">last updated <b>1/23/2024</b>  
 <br>
 </p>
 
