@@ -1,9 +1,8 @@
 # <p align="center"> my skins
 <p align="center">
-<a href="https://osu.ppy.sh/users/11626318">
   <img src="https://a.ppy.sh/11626318"  
        width="150"
-       height="150"></a>
+       height="150">
 <br>
 last updated <b>1/23/2024</b>
 </p>
