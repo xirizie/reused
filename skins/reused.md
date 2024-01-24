@@ -9,8 +9,8 @@
 # [- villicet](https://github.com/xirizie/skinhub/raw/main/skins/-%20villicet.osk)
 [![](https://osu.ppy.sh/ss/18330650/1912)](https://github.com/xirizie/skinhub/raw/main/skins/-%20villicet.osk)
 
-# [2umu](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/2umu.osk)
-[![](https://osu.ppy.sh/ss/18330662/eb2d)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/2umu.osk)
+# [2umu](https://github.com/xirizie/skinhub/raw/main/skins/2umu.osk)
+[![](https://osu.ppy.sh/ss/18330662/eb2d)](https://github.com/xirizie/skinhub/raw/main/skins/2umu.osk)
 
 # [#Azerite (osu player84) #2](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/%23Azerite%20(osu%20player84)%20%232.osk)
 [![](https://osu.ppy.sh/ss/18330652/ad0e)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/%23Azerite%20(osu%20player84)%20%232.osk)
