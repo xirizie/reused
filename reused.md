@@ -8,16 +8,6 @@
 last updated <b>12/01/2023</b>
 </p>
 
-<a href="https://i.imgur.com/o0kMf8Y.png">
-<img src="https://i.imgur.com/o0kMf8Y.png"
-       width="151" 
-       height="70"/></a>
-
-<a href="https://github.com/ryancranie/skinhub/blob/tyfh/aeshub.md">
-<img src="https://i.imgur.com/nnkLwEo.png" 
-       width="151" 
-       height="70"/></a>
-
 # [- + - tkori_r](https://www.mediafire.com/file/46by2l74ywhbrb3/-+++-+tkori_r.osk/file)
 [![](https://i.imgur.com/Meckm9W.png)](https://www.mediafire.com/file/46by2l74ywhbrb3/-+++-+tkori_r.osk/file)
 <details><summary></summary>^This skin is over 100MB; This skin's download link will not be hosted from the skinhub.</details>
