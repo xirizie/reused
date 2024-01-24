@@ -1,8 +1,5 @@
 # <p align="center"> my skins
-<p align="center">
-  <img src="https://a.ppy.sh/11626318"  
-       width="150"
-       height="150">
+<p align="center">  
 <br>
 last updated <b>1/23/2024</b>
 </p>
