@@ -10,7 +10,6 @@ last updated <b>1/23/2024</b>
 
 # [- + - tkori_r](https://www.mediafire.com/file/46by2l74ywhbrb3/-+++-+tkori_r.osk/file)
 [![](https://i.imgur.com/Meckm9W.png)](https://www.mediafire.com/file/46by2l74ywhbrb3/-+++-+tkori_r.osk/file)
-<details><summary></summary>^This skin is over 100MB; This skin's download link will not be hosted from the skinhub.</details>
 
 # [- villicet](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/-%20villicet.osk)
 [![](https://osu.ppy.sh/ss/18330650/1912)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/-%20villicet.osk)
