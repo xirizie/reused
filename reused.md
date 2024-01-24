@@ -8,11 +8,6 @@
 last updated <b>12/01/2023</b>
 </p>
 
-<a href="https://www.youtube.com/watch?v=kbbgypvGPgM">
-<img src="https://i.imgur.com/uDyKiLi.png"
-       width="151" 
-       height="70"/></a>
-
 <a href="https://i.imgur.com/o0kMf8Y.png">
 <img src="https://i.imgur.com/o0kMf8Y.png"
        width="151" 
