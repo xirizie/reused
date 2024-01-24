@@ -1,5 +1,4 @@
-# Reused's skinhub
-<p align="center">
+<p align="center"># Reused's skinhub
 <a href="https://osu.ppy.sh/users/11626318">
   <img src="https://a.ppy.sh/11626318"  
        width="150"
