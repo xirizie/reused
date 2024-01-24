@@ -5,7 +5,7 @@ last updated <b>1/23/2024</b>
 </p>
 
 # [- + - tkori_r](https://github.com/xirizie/skinhub/raw/main/skins/-%20+%20-%20tkori_r.osk)
-[![](https://i.imgur.com/Meckm9W.png)](https://www.mediafire.com/file/46by2l74ywhbrb3/-+++-+tkori_r.osk/file)
+[![](https://i.imgur.com/Meckm9W.png)](https://github.com/xirizie/skinhub/raw/main/skins/-%20+%20-%20tkori_r.osk)
 
 # [- villicet](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/-%20villicet.osk)
 [![](https://osu.ppy.sh/ss/18330650/1912)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/-%20villicet.osk)
