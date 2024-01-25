@@ -4,7 +4,7 @@
 </p>
 
 # [- + - tkori_r](https://github.com/xirizie/skinhub/raw/main/skins/-%20+%20-%20tkori_r.osk)
-[![](https://i.imgur.com/Meckm9W.png)](https://github.com/xirizie/skinhub/raw/main/skins/-%20+%20-%20tkori_r.osk)
+[![](https://osu.ppy.sh/ss/19003050/0238)](https://github.com/xirizie/skinhub/raw/main/skins/-%20+%20-%20tkori_r.osk)
 
 # [- villicet](https://github.com/xirizie/skinhub/raw/main/skins/-%20villicet.osk)
 [![](https://osu.ppy.sh/ss/18330650/1912)](https://github.com/xirizie/skinhub/raw/main/skins/-%20villicet.osk)
