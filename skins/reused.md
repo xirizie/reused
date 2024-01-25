@@ -18,7 +18,7 @@
 # [mathi ensalada v1.5](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/mathi%20ensalada%20v1.5.osk)
 [![](https://osu.ppy.sh/ss/18330688/92a3)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/mathi%20ensalada%20v1.5.osk)
 
-# [- clacked_rafis](https://github.com/xirizie/skinhub/raw/main/skins/-%20clacked%20rafis.osk)
+# [- clacked rafis](https://github.com/xirizie/skinhub/raw/main/skins/-%20clacked%20rafis.osk)
 [![](https://osu.ppy.sh/ss/18330694/1c9e)](https://github.com/xirizie/skinhub/raw/main/skins/-%20clacked%20rafis.osk)
 
 #
