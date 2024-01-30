@@ -1,4 +1,4 @@
-# <p align="center"> skins I use (★ means I made it)
+# <p align="center"> skins I use (★ = I made it)
 <p align="center">last updated <b>1/23/2024</b>  
 <br>
 </p>
