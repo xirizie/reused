@@ -7,7 +7,7 @@
 [![](https://osu.ppy.sh/ss/19011163/c105)](https://github.com/xirizie/skinhub/raw/main/skins/-%20+%20-%20tkori_r.osk)
 
 # [- villicet](https://github.com/xirizie/skinhub/raw/main/skins/-%20villicet.osk)
-[![](https://osu.ppy.sh/ss/19011169/8afb)](https://github.com/xirizie/skinhub/raw/main/skins/-%20villicet.osk)
+[![](https://osu.ppy.sh/ss/19011175/f2d5)](https://github.com/xirizie/skinhub/raw/main/skins/-%20villicet.osk)
 
 # [2umu](https://github.com/xirizie/skinhub/raw/main/skins/2umu.osk)
 [![](https://osu.ppy.sh/ss/18330662/eb2d)](https://github.com/xirizie/skinhub/raw/main/skins/2umu.osk)
