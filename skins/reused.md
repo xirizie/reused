@@ -13,7 +13,7 @@
 [![](https://osu.ppy.sh/ss/19011186/6586)](https://github.com/xirizie/skinhub/raw/main/skins/2umu.osk)
 
 # [- clacked rafis](https://github.com/xirizie/skinhub/raw/main/skins/-%20clacked%20rafis.osk)
-[![](https://osu.ppy.sh/ss/18330694/1c9e)](https://github.com/xirizie/skinhub/raw/main/skins/-%20clacked%20rafis.osk)
+[![](https://osu.ppy.sh/ss/19011188/a9da)](https://github.com/xirizie/skinhub/raw/main/skins/-%20clacked%20rafis.osk)
 
 #
 <p align="center">
