@@ -1,9 +1,9 @@
-# <p align="center"> my skins
+# <p align="center"> skins I use (★ means I made it)
 <p align="center">last updated <b>1/23/2024</b>  
 <br>
 </p>
 
-# [- + - tkori_r](https://github.com/xirizie/skinhub/raw/main/skins/-%20+%20-%20tkori_r.osk)
+# ★ [- + - tkori_r](https://github.com/xirizie/skinhub/raw/main/skins/-%20+%20-%20tkori_r.osk)
 [![](https://reused.s-ul.eu/j05VG15b)](https://github.com/xirizie/skinhub/raw/main/skins/-%20+%20-%20tkori_r.osk)
 
 # [- villicet](https://github.com/xirizie/skinhub/raw/main/skins/-%20villicet.osk)
