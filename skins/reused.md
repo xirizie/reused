@@ -10,7 +10,7 @@
 [![](https://osu.ppy.sh/ss/19011175/f2d5)](https://github.com/xirizie/skinhub/raw/main/skins/-%20villicet.osk)
 
 # [2umu](https://github.com/xirizie/skinhub/raw/main/skins/2umu.osk)
-[![](https://osu.ppy.sh/ss/18330662/eb2d)](https://github.com/xirizie/skinhub/raw/main/skins/2umu.osk)
+[![](https://osu.ppy.sh/ss/19011186/6586)](https://github.com/xirizie/skinhub/raw/main/skins/2umu.osk)
 
 # [- clacked rafis](https://github.com/xirizie/skinhub/raw/main/skins/-%20clacked%20rafis.osk)
 [![](https://osu.ppy.sh/ss/18330694/1c9e)](https://github.com/xirizie/skinhub/raw/main/skins/-%20clacked%20rafis.osk)
