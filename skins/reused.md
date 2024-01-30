@@ -19,7 +19,7 @@
 <p align="center">
   <br></br>
   <a href="https://www.twitch.tv/reusedzz">
-  <img src="https://i.imgur.com/HM030lk.png" 
+  <img src="https://reused.s-ul.eu/9gfja4mL" 
        width="100" 
        height="100"></a>
   <a href="https://www.youtube.com/c/reused">
