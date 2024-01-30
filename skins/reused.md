@@ -28,6 +28,6 @@
        height="100"></a>
   <a href="https://twitter.com/_12760">
   <img src="https://reused.s-ul.eu/JyvrSwS6" 
-       width="100" 
-       height="127.75"></a>
+       width="127.75" 
+       height="100"></a>
  </p>
