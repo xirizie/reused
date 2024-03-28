@@ -4,7 +4,7 @@
 <p align="center">last updated <b>3/28/2024</b>
 <br>
 </p>
-dwasad
+<p align="center"> will be updated with more skins soon </p>
 
 # ★ [- + - tkori_r](https://selene.s-ul.eu/I5AKm9rZ)
 [![](https://reused.s-ul.eu/j05VG15b)](https://github.com/xirizie/skinhub/raw/main/skins/-%20+%20-%20tkori_r.osk)
