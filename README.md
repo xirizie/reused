@@ -28,7 +28,7 @@
   <img src="https://reused.s-ul.eu/TlVlATsn"  
        width="100" 
        height="100"></a>
-  <a href="https://twitter.com/_12760">
+  <a href="https://twitter.com/_reused">
   <img src="https://reused.s-ul.eu/JyvrSwS6" 
        width="127.75" 
        height="100"></a>
